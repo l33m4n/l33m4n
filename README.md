@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate sysadmin from America</h3>
 
 <img src="https://komarev.com/ghpvc/?username=l33m4n&label=Profile%20views&color=red&style=alduin" alt="l33m4n" />
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l33m4n&rank=S,AAA,AA,A,B,C&theme=onedark" alt="l33m4n" /></a> </p>
+
 
 - 🌱 I’m currently learning **linux systems**
 
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l33m4n&show_icons=true&theme=dark#gh-dark-mode-only" alt="l33m4n" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l33m4n&&theme=dark" alt="l33m4n" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l33m4n&rank=S,AAA,AA,A,B,C&theme=onedark" alt="l33m4n" /></a> </p>
 
 <h3 align="left">Connect with me: Create a issue :p</h3>
 <p align="left">
