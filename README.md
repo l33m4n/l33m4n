@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm l33m4n</h1>
 <h3 align="center">A passionate sysadmin from America</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=l33m4n&style=for-the-badge&color=red&style=alduin" alt="l33m4n" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=l33m4n&label=Profile%20views&color=red&style=alduin" alt="l33m4n" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l33m4n&label=Profile%20views&color=0e75b6&style=alduin" alt="l33m4n" /> </p>
 
