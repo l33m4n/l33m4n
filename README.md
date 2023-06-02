@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm l33m4n</h1>
 <h3 align="center">A passionate sysadmin from America</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=l33m4n&label=Profile%20views&color=red&style=alduin" alt="l33m4n" /> </p>
+<img src="https://komarev.com/ghpvc/?username=l33m4n&label=Profile%20views&color=red&style=alduin" alt="l33m4n" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l33m4n&rank=S,AAA,AA,A,B,C&theme=onedark" alt="l33m4n" /></a> </p>
 
