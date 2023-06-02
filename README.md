@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l33m4n&show_icons=true&theme=dark#gh-dark-mode-only" alt="l33m4n" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l33m4n&&theme=dark" alt="l33m4n" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l33m4n&rank=S,AAA,AA,A,B,C&theme=onedark" alt="l33m4n" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=apprentice" alt="l33m4n" /></a> </p>
 
