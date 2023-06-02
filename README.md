@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=l33m4n&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <h1 align="center">Hi 👋, I'm l33m4n</h1>
-<h3 align="center">A passionate frontend developer from America</h3>
+<h3 align="center">A passionate sysadmin from America</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l33m4n&label=Profile%20views&color=0e75b6&style=flat" alt="l33m4n" /> </p>
 
