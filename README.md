@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **l33m4n/l33m4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 <h1 align="center">Hi 👋, I'm l33m4n</h1>
 <h3 align="center">A passionate sysadmin from America</h3>
 
