@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l33m4n&label=Profile%20views&color=0e75b6&style=flat" alt="l33m4n" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l33m4n" alt="l33m4n" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l33m4n&rank=S,AAA,AA,A,B,C" alt="l33m4n" /></a> </p>
 
 - 🌱 I’m currently learning **linux systems**
 
