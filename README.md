@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **linux systems**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: Create a issue :p</h3>
 <p align="left">
 </p>
 
