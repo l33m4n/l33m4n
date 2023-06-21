@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=apprentice" alt="l33m4n" /></a> </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l33m4n&theme=radical&hide_title=true&hide_border=true)](https://github.com/mcgillij) 
+
 <h3 align="left">Connect with me: Create a issue :p</h3>
 <p align="left">
 </p>
