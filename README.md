@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm l33m4n</h1>
-<h3 align="center">A passionate sysadmin from America</h3>
+<h3 align="center"></h3>
 
 <img src="https://komarev.com/ghpvc/?username=l33m4n&label=Profile%20views&color=red&style=alduin" alt="l33m4n" />
 
 
-- 🌱 I’m currently learning **lightweght debian VMs and servers**
+- 🌱 I’m currently learning **Hyper-V**
 
 
 
