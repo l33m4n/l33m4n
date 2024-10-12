@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=l33m4n&label=Profile%20views&color=red&style=alduin" alt="l33m4n" />
 
 
-- 🌱 I’m currently learning **Hyper-V**
+- 🌱 I’m currently honing my skills in C#
 
 
 
